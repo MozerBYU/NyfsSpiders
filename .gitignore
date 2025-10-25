@@ -21,5 +21,4 @@ build
 # other
 eclipse
 run
-
-.local-maven
+local-maven
